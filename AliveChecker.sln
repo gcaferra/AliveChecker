@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliveChecker.Application", "AliveChecker.Application\AliveChecker.Application.csproj", "{6C74EA23-D237-4E93-AFBF-1551642A67BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliveChecker.Application.Tests", "AliveChecker.Application.Tests\AliveChecker.Application.Tests.csproj", "{66A6CD6D-38FC-43ED-AB2A-2C0BD8AB9C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliveChecker.Cmd", "AliveChecker.Cmd\AliveChecker.Cmd.csproj", "{7EF8D03E-6C38-4CE1-BA6A-49A8C40B71CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C74EA23-D237-4E93-AFBF-1551642A67BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C74EA23-D237-4E93-AFBF-1551642A67BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C74EA23-D237-4E93-AFBF-1551642A67BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C74EA23-D237-4E93-AFBF-1551642A67BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A6CD6D-38FC-43ED-AB2A-2C0BD8AB9C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A6CD6D-38FC-43ED-AB2A-2C0BD8AB9C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A6CD6D-38FC-43ED-AB2A-2C0BD8AB9C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A6CD6D-38FC-43ED-AB2A-2C0BD8AB9C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF8D03E-6C38-4CE1-BA6A-49A8C40B71CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF8D03E-6C38-4CE1-BA6A-49A8C40B71CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF8D03E-6C38-4CE1-BA6A-49A8C40B71CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF8D03E-6C38-4CE1-BA6A-49A8C40B71CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
